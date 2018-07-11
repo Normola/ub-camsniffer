@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\Normo\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.21\\cores\\arduino",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino/",
+                "C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/",
+                "${workspaceRoot}/include",
+                "${workspaceFolder}/**",
+                "C:/Users/Normo/Dev/arduino/libraries/**"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "C:\\Users\\Normo\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.21\\cores\\arduino",
+                    "C:/Program Files (x86)/Arduino/harware/arduino/avr/cores/arduino/",
+                    "C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/**",
+                    "${workspaceRoot}/include",
+                    "${workspaceFolder}/**",
+                    "C:/Users/Normo/Dev/arduino/libraries/"
+                ]
+            },
+            "intelliSenseMode": "msvc-x64",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.14.26428/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
