@@ -2,6 +2,10 @@
     "files.associations": {
         "xiosbase": "cpp",
         "future": "cpp",
-        "system_error": "cpp"
+        "system_error": "cpp",
+        "string": "cpp",
+        "xstring": "cpp",
+        "iosfwd": "cpp",
+        "xlocale": "cpp"
     }
 }
